@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+Desktop.ini
+Thumbs.db
+firebase-server/config.js
+telegram/config.js
+test/server-test/apr6-2023-spg-backup-firebase-adminsdk-toolm-860caeccd2.json
+test/server-test/apr6-2023-spg-firebase-adminsdk-76fui-7b28269ea6.json
+/test/server-test/apr6-2023-2-firebase-adminsdk-rdqbs-c08f51d712.json
+/test/server-test/apr6-2023-spg-backup-3-firebase-adminsdk-kn5e2-979f8d4105.json
+test/server-test/__pycache__
+test/server-test/.coverage
+/server/coverage/

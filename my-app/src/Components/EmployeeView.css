@@ -1,0 +1,32 @@
+.sfondoriga{
+    /*background-color: #eaeaea;*/
+    background-color: #efefef;
+    border-radius: 10px;
+}
+
+.sfondosidebar{
+    background-color: #efefef;
+}
+
+@media (max-width: 1200px) {
+    .ridotto-mobile {
+      font-size: 13px;
+    }
+    .font-tabella{
+      font-size: 12px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .margine-cerca-desktop{
+        margin-left: 18px;
+        margin-right: 18px;
+    }
+    .font-tabella{
+      font-size: 14px;
+    }
+  }
+
+  .no-scroll{
+    overflow: hidden;
+  }
