@@ -20,10 +20,8 @@ function WelcomeModal(props) {
                 <Container>
                     <Row>
                         <Col>
-                            <h1 className="text-placement-modal"> Your next </h1>
-                            <h1 className="text-placement-modal"> ingredient is </h1>
-                            <h1 className="text-placement-modal"> ZeroMiles away </h1>
-                        </Col>
+                            <h1 className="text-placement-modal"> Gastronomia</h1>
+                            <h1 className="text-placement-modal"> Colombiana </h1>                        </Col>
                     </Row>
                     <Row>
                         <WelcomeFarmerModal />

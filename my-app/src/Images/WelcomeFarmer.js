@@ -19,16 +19,16 @@ function WelcomeFarmer(props) {
 
 function WelcomeFarmerModal(props) {
   return (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      contentScriptType="text/ecmascript"
-      width={100}
-      height={200}
-      viewBox="160 0 800 800"
-      {...props}
-    >
+    // <svg
+    //   xmlns="http://www.w3.org/2000/svg"
+    //   contentScriptType="text/ecmascript"
+    //   width={100}
+    //   height={200}
+    //   viewBox="160 0 800 800"
+    //   {...props}
+    // >
       <Defs/>
-    </svg>
+   // </svg>
   )
 }
 
