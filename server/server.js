@@ -15,6 +15,8 @@ const {firebaseconf} = require('./firebase-server/config.js');
 const fetch = require("node-fetch");
 //const TelegramBot = require('node-telegram-bot-api');
 //const {telegramToken, chatID} = require("./telegram/config.js");
+const telegramToken='5579928460:AAFX0jxqH8EGAn9Wy5ruegGfoYkXU-ambGI';
+const chatID ='1062997306';
 
 const userDao = require('./userDAO');
 const {body, param, validationResult, sanitizeBody, sanitizeParam} = require('express-validator');
